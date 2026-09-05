@@ -1,0 +1,929 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	NIQ: {
+		DisplayName: NIQ
+		Tooltip: The first item in this modification
+	}
+
+	KombatMadnessPotion: {
+		DisplayName: Vodka
+		Tooltip:
+			'''
+			When used, it gives the effect of Combat Madness
+			Melee damage increases by 15%
+			«A nu cheeki breeki i v damke»
+			'''
+	}
+
+	UltimateInfinityPotion: {
+		DisplayName: Endless universal potion
+		Tooltip:
+			'''
+			Use RMB to chage mode
+			When used, it gives the effects depending on the mode
+			«Swallow my...»
+			'''
+		Tl0: Current mode:[c/ff5555: Melee]
+		Tl1: Current mode:[c/50fa7b: Ranged]
+		Tl2: Current mode:[c/bd93f9: Mage]
+		Tl3: Current mode:[c/f1fa8c: Summoning]
+		Tl4: Current mode:[c/6e6e6e: Fisherman]
+		Tl5: Current mode:[c/692e02: Builder]
+		Tl6: Current mode:[c/57c785: Miner]
+		Tl7: Current mode:[c/b335b5: Biome Sight]
+		Tl8: Current mode:[c/9ee8f0: Purification]
+	}
+
+	MoonWand: {
+		DisplayName: Moon's wand
+		Tooltip:
+			'''
+			Shoots moonbeams
+			Applies ichor and shadowflame on hit
+			«Tears of Moonlord became the basis of this wand
+			Be careful with it»
+			'''
+	}
+
+	GraveThrower: {
+		DisplayName: Gravethrower
+		Tooltip:
+			'''
+			Shoots gravestones
+			Gravestones has unique effects and damage
+			Pierces a lot of targets
+			«It is unclear where the gravestones came from,
+			But the ancient masters said that
+			This weapon takes them from somewhere in the cemeteries
+			So if you come and there is no tombstone on your grandfather's grave
+			Then be sure with a chance of 13.76568% he flew into some enemy»
+			'''
+	}
+
+	QuestItemMef: {
+		DisplayName: «Lost» Meth
+		Tooltip:
+			'''
+			The lost recipe of this meth, which you know from somewhere.
+			Some people (Well, or not so much) will give you all their wealth for this meth.
+			«The first mention of this meth was discovered before the destruction of Azafure»
+			'''
+	}
+
+	SwordShroomBonk: {
+		DisplayName: Great shroom bong
+		Tooltip:
+			'''
+			Shoots some homing glowing mushrooms
+			«Bong, made by a skilled craftsman from an ordinary flask
+			But even though this bonk is made of junk
+			It is not even fragile and does not break after a couple of "Uses"»
+			'''
+	}
+
+	OldNail: {
+		DisplayName: Old nail
+		Tooltip:
+			'''
+			By pressing the RMB, it forces you to release a vengeful spirit
+			No soul required ☺
+			«Traditional weapon of Hallownest.
+			Time and battles have dulled his blade.»
+			'''
+	}
+
+	ChanalledNail: {
+		DisplayName: Channelled nail
+		Tooltip:
+			'''
+			By pressing the RMB, it forces you to release a shade soul
+			No soul required ☺
+			«faithful blade of Hallownest.
+			It's razor perfectly balanced.»		
+			'''
+	}
+
+	CoiledNail: {
+		DisplayName: Coiled nail
+		Tooltip:
+			'''
+			By pressing the RMB, it forces you to release a shade soul
+			No soul required ☺
+			«powerful weapon of Hallownest,
+			Refined beyond all others.»
+			'''
+	}
+
+	PureNail: {
+		DisplayName: Pure nail
+		Tooltip:
+			'''
+			By pressing the RMB, it forces you to release a shade soul
+			No soul required ☺
+			«ultimate weapon of Hallownest.
+			This ancient nail, brought to perfection,
+			Finally revealed in all its greatness.»
+			'''
+	}
+
+	SharpenedNail: {
+		DisplayName: Sharpened nail
+		Tooltip:
+			'''
+			By pressing the RMB, it forces you to release a vengeful spirit
+			No soul required ☺
+			«Traditional weapon of Hallownest in primordial deadly grandeur.»		
+			'''
+	}
+
+	Dollar: {
+		DisplayName: Dollar bill
+		Tooltip: It may cost more in the future
+	}
+
+	DollarThree: {
+		DisplayName: three-dollar bill
+		Tooltip:
+			'''
+			When worn, gives -10% to the mana cost
+			Gives an additional 60 mana to the reserve
+			«Random effects for cost shots
+			are not included in the price» 
+			'''
+	}
+
+	MercuryShame: {
+		DisplayName: Mercury's Shame
+		Tooltip:
+			'''
+			When worn, gives -10% to the mana cost
+			Gives an additional 100 mana to the reserve
+			Incrases magic damage by 15%
+			Incrases critical hit chance by 15%
+			«Mercury was famous for his inability to create useful amulets
+			But this one has become the worst
+			Mercury has never had such a shame...»
+			'''
+	}
+
+	SaturnRing: {
+		DisplayName: Saturn's staff
+		Tooltip:
+			'''
+			Casts a controllable ring, that follows your cursor
+			«Saturn loved ancient magic and occultism
+			Therefore, this staff is based on forbidden spells,
+			like an inheritance»
+			'''
+	}
+
+	ZodiacStar: {
+		DisplayName: Zodiac's star
+		Tooltip:
+			'''
+			«The stars that are created by the Zodiac
+			Have constructive abilities»
+			'''
+	}
+
+	LastHope: {
+		DisplayName: Last hope
+		Tooltip:
+			'''
+			Reduces mana costs by 50%
+			Divides players armor by 2
+			Multiplies player speed by 2
+			Increases players mana by 200
+			«The artifact that became the last product of Mercury,
+			He was the best Thing Mercury did...
+			but it didn't save him.»
+			'''
+	}
+
+	ZodiacHeart: {
+		DisplayName: Zodiac's heart
+		Tooltip: «All that's left of the Zodiac»
+	}
+
+	ZodiacSickle: {
+		DisplayName: Zodiac's sickle
+		Tooltip:
+			'''
+			When pressed, the RMB releases several homing blades
+			Consumes 75 mana when used
+			"Even though the Zodiac is a God,
+			He didn't like fighting,
+			So his weapons are far from ideal."
+			'''
+	}
+
+	SunSword: {
+		DisplayName: Sun's Sword
+		Tooltip:
+			'''
+			Shoots a gradually accelerating projectile
+			Which can hit up to 3 targets
+			"The sun limited its power,
+			So as not to kill innocent people"
+			'''
+	}
+
+	StrangeNote: {
+		DisplayName: Strange note
+		Tooltip: Strange
+	}
+
+	Vengera: {
+		DisplayName: Vengera
+		Tooltip:
+			'''
+			«An unknown crystal that resembles a diamond,
+			But this one is much more... stronger?»
+			'''
+	}
+
+	CursedZXC: {
+		DisplayName: Cursed star
+		Tooltip:
+			'''
+			«It looks like a Zodiac's star,
+			But who cursed it?»
+			'''
+	}
+
+	BreadMyakish: {
+		DisplayName: Bread crumb
+		Tooltip: «Ordinary bread is thrown into the water for bait»
+	}
+
+	MramorSteak: {
+		DisplayName: Marbled Beef
+		Tooltip: «This is really MARBLED beef»
+	}
+
+	Cellulose: {
+		DisplayName: Cellulose
+		Tooltip:
+			'''
+			«That's how the author of the mod decided to show off
+			With his knowledge of chemistry»
+			'''
+	}
+
+	Paper: {
+		DisplayName: Paper
+		Tooltip: «A4»
+	}
+
+	Cigarets: {
+		DisplayName: Cigarets
+		Tooltip:
+			'''
+			When used, it has 5 stages:
+			1 Stage. Gives the "Nicotine Rejection" buff
+			Increases the number of minions by 1, Reduces the max HP by 10%
+			Stage 2. Gives the "Nicotine Tolerance" buff
+			Increases the number of minions by 1, reduces the max HP by 20%
+			Stage 3. Gives the "Nicotine Addiction" buff
+			Increases the number of minions by 2, reduces the max HP by 30%
+			Stage 4. Gives the "Nicotine intoxication" buff
+			Increases the number of minions by 2, reduces the max HP by 40%
+			Stage 5. Gives the "Nicotine overdose" buff
+			Increases the number of minions by 3, reduces the max HP by 50%
+			«Vapes are better»
+			'''
+	}
+
+	WorkingTableItem: {
+		DisplayName: Alembic
+		Tooltip:
+			'''
+			Allows you to create «fun» things
+			«My grandfather once said:
+			"Fuck you, I won't give you moonshine, yopta"»
+			'''
+	}
+
+	SmokingFlowerItem: {
+		DisplayName: Smoking flower
+		Tooltip: Loves beer
+
+		Chat: {
+			RMBuse: Have a beer for me.
+			RMBuse2: Fucking beer in the pot right now!
+		}
+	}
+
+	Egg: {
+		DisplayName: Egg
+		Tooltip: World record
+	}
+
+	Clair: {
+		DisplayName: Clair
+		Tooltip: Clair not kяrv
+	}
+
+	SaitamaCloak: {
+		DisplayName: Saitama's Cloak
+		Tooltip:
+			'''
+			Increases the critical chance of melee weapons by 25%
+			Increases melee damage by 20%
+			Allows automatic reuse of weapons
+			[c/0cd0fc:De][c/00c5fd:ve][c/00b9fb:lo][c/00adf5:pe][c/00a1ef:r I][c/0096e9:te][c/008ae4:m S][c/007ee0:us][c/0071e0: Mo][c/005fec:gu][c/124ee4:ss]
+			«DEATH»
+			'''
+	}
+
+	CheeseClair: {
+		DisplayName: Cheese Stick in clair
+		Tooltip:
+			'''
+			Fires sauce blobs on use
+			The blob gradually increases its damage on its return trip
+			[c/52fa7b:De][c/3ef68b:ve][c/2cf19a:lo][c/2cf19a:pe][c/1feca7:r I][c/1ee7b1:te][c/28e1ba:m k][c/38dbc1:яr][c/48d5c5:v]
+			«Cheaky bols»
+			'''
+	}
+
+	SurvivalTest: {
+		DisplayName: Survival Test
+		Tooltip:
+			'''
+			Reduces maximum XP to 50 (100 if a Moon Lord is killed)
+			Increases HP regeneration
+			Increases armor and damage
+			Allows revival, 3 minute cooldown
+			[c/8f0000:De][c/890001:ve][c/840002:lo][c/7e0003:pe][c/780003:r I][c/720004:te][c/6d0004:m P][c/670004:ur][c/610004:el][c/5c0003:y r][c/560003:ec][c/510102:kl][c/4b0101:ess]
+			'''
+	}
+
+	SyringeGun: {
+		DisplayName: Syringe Gun
+		Tooltip:
+			'''
+			A syringe with a 10% chance can cure an enemy by 3%
+			In all other cases, it inflicts poison
+			[c/fa0067:De][c/ee006d:ve][c/e10072:lo][c/d00077:pe][c/c0007a:r I][c/b0007d:te][c/a0007f:m D][c/900081:ee][c/7e0082:pL][c/6a0081:ig][c/56007f:ht]
+			«Meet the medic»
+			'''
+	}
+
+	DistantStrike: {
+		DisplayName: «Distant Strike»
+		Tooltip:
+			'''
+			A sniper rifle that fires two types of bolts
+			Fires an explosive dart when used normally
+			Fires an ichor dart when RMB is pressed.
+			"A long-range sniper rifle,
+			The main feature is the cumulative and weakening bullets."
+			'''
+	}
+
+	ArcanumBlade: {
+		DisplayName: Arcanum Blade
+		Tooltip:
+			'''
+			Pressing RMB grants a buff depending on
+			On the maximum amount of mana:
+			1)Less than 100 - increase magic damage.
+			And melee damage by 10%
+			2)More than 100 but less than 200 - 
+			Increase magic damage
+			And melee by 10%
+			3)More than 200 - Increase of magic damage
+			And melee by 30%
+			«A sword forged by a great magician,
+			has magical channels
+			Through which mana flows»
+			'''
+	}
+
+	ManaCrystalizer: {
+		DisplayName: Mana Crystallizer
+		Tooltip:
+			'''
+			Uses all mana
+			And crystallizes it
+			'''
+	}
+
+	CrystalMana: {
+		DisplayName: Crystallized Mana
+		Tooltip: Sweet as honey
+	}
+
+	LivingFlesh: {
+		DisplayName: Living Flesh
+		Tooltip:
+			'''
+			A small worm that absorbs mana
+			Shoots homing eyes that
+			Pierce a single enemy multiple times
+			«The key is not to get infected by lesions»
+			'''
+	}
+
+	BowTie: {
+		DisplayName: Bow Tie
+		Tooltip:
+			'''
+			Shoots Tie arrows
+			That's it, what do you want?
+			Shoots.
+			'''
+	}
+
+	Stargazer: {
+		DisplayName: Stargazer
+		Tooltip:
+			'''
+			Fires 2 sine and cosine projectiles
+			«A unique techno-magical weapon developed by dwarven wizards
+			That uses condensed mana to fire»
+			'''
+	}
+
+	ZenithToilet: {
+		DisplayName: Zenith Toilet
+		Tooltip:
+			'''
+			When sitting the player cannot take damage,
+			But also cannot use items
+			«A unique toilet that gives all the power of Zenith
+			When you sit on it»
+			'''
+	}
+
+	PyroSpike: {
+		DisplayName: Pyro Spike or Boulder idk)
+		Tooltip:
+			'''
+			Shoots a projectile,
+			That reflects from ground
+			On hit starts spawning little scorches
+			«Can be ghostie»
+			'''
+	}
+
+	SunsContempt: {
+		DisplayName: Suns Contempt
+		Tooltip:
+			'''
+			On use spawn small projectile
+			After it goes a sun ray
+			«He hate the Moon,
+			But he isn't a racist»
+			'''
+	}
+}
+
+Buffs: {
+	KombatMadness: {
+		DisplayName: Combat madness
+		Description:
+			'''
+			Melee damage increases by 15%
+			«The lizards don't like your smell»
+			'''
+	}
+
+	Cigarette1: {
+		DisplayName: Nicotine Rejection
+		Description: After inhaling, it became difficult for you to breathe.
+	}
+
+	Cigarette2: {
+		DisplayName: Nicotine tolerance
+		Description: You don't feel anything after inhaling.
+	}
+
+	Cigarette3: {
+		DisplayName: Nicotine addiction
+		Description:
+			'''
+			You smoke too much
+			You no longer feel satisfied with
+			One cigarette
+			'''
+	}
+
+	Cigarette4: {
+		DisplayName: Nicotine intoxication
+		Description:
+			'''
+			You shouldn't lean so hard on cigarettes
+			[c/2E0000: You don't listen to advice, do you?]
+			'''
+	}
+
+	Cigarette5: {
+		DisplayName: Nicotine overdose
+		Description:
+			'''
+			It's hard for you to breathe that much,
+			That you think,
+			That you're drowning
+			[c/000000: WE WARNED YOU]
+			'''
+	}
+
+	ReviveCooldown: {
+		DisplayName: Revive Cooldown
+		Description:
+			'''
+			You can't be reborn at this point
+			«You failed the survival test, didn't you.»
+			'''
+	}
+
+	ArcanumBuff1: {
+		DisplayName: Touched by the Arcana
+		Description:
+			'''
+			Increases magic damage and melee damage
+			By 10%
+			«A person who touches an Arcana,
+			Gains the ability to interact with mana»
+			'''
+	}
+
+	ArcanumBuff2: {
+		DisplayName: Bind to the Arcana
+		Description:
+			'''
+			Increases magic damage and melee damage
+			By 20%
+			«With enough power,
+			A mage can bind his soul to an Arcana»
+			'''
+	}
+
+	ArcanumBuff3: {
+		DisplayName: Part of the Arcana
+		Description:
+			'''
+			Increases magic damage and melee damage
+			By 30%
+			«Only the strongest mages
+			Can become part of the Arcana»
+			'''
+	}
+}
+
+Projectiles: {
+	MoonLaser.DisplayName: Moon beam
+	TrueCrossGraveMarker.DisplayName: Cross grave marker
+	TrueGraveMarker.DisplayName: Grave marker
+	TrueGravestone.DisplayName: Gravestone
+	TrueHeadstone.DisplayName: Headstone
+	TrueObelisk.DisplayName: Obelisk
+	TrueTombstone.DisplayName: Tombstone
+	GlowShroom.DisplayName: Glowing mushrooms
+	ShadeSoul.DisplayName: Shade soul
+	VengefulSpirit.DisplayName: Vengeful spirit
+	Zaglushka.DisplayName: kludge
+	Ring.DisplayName: Saturn's ring
+	ZodiacSickleProj.DisplayName: Sickle's blade
+	SunStrike.DisplayName: Sun Strike
+	Nugget.DisplayName: Sauce
+	Syringe.DisplayName: Syringe
+	DistantFastBullet.DisplayName: Distant Fast Bullet
+	DistantStrongBullet.DisplayName: Distant Strong Bullet
+	ArcanumProjectile.DisplayName: Arcanum Projectile
+	EyeOfAle.DisplayName: Eye Of Ale
+	BowTieArrow.DisplayName: Bow Tie Arrow
+	StarBackwordSin.DisplayName: Star Shard
+	StarSin.DisplayName: Star Shard
+	PyroSpikeProj.DisplayName: Pyro Spike
+	PyroTrail.DisplayName: Scortch
+	SunsContemptProjFirst.DisplayName: Ray
+	SunsContemptProjLaser.DisplayName: Sun Ray
+}
+
+NPCs: {
+	Shailushai: {
+		DisplayName: Smurf
+		Census.SpawnCondition: The glowing mushroom must be in the inventory.
+
+		Names: {
+			Name0: kяrv
+			Name1: Hanabirin
+			Name2: Van
+			Name3: Sus M.
+			Name4: Billie
+			Name5: Enevrok
+			Name6: Rick Astley
+			Name7: False Dmitriy the fourth
+			Name8: Nikita П@cтерн@к
+			Name9: Gaius Julius Caesar
+			Name10: Disk
+			Name11: Francis
+			Name12: Ethel
+			Name13: Rudolf
+			Name14: Rudeus
+			Name15: Hun
+			Name16: Uli Reckless
+			Name17: Pavel Chekurda
+			Name18: Papa Smurf
+			Name19: Gella
+		}
+
+		TownNPCMood: {
+			Content: I am satisfied.
+			NoHome: Where should I live?
+			FarFromHome: Bring me home.
+			LoveSpace: You know, I like a lot of space.
+			DislikeCrowded: There are a lot of people here who are not having "fun".
+			HateCrowded: Too many people.
+			LoveBiome: I like {BiomeName}, there are so many mushrooms.
+			LikeBiome: Listen, I like {BiomeName}, there are so many "Materials".
+			DislikeBiome: I don't like {BiomeName}, it's too deserted there.
+			HateBiome: I hate {BiomeName}, it's damp and dirty and there is no shrums.
+			LoveNPC: I love {NPCName}.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I don't like {NPCName}.
+			HateNPC: I can't stand people like {NPCName}.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		Bestiary:
+			'''
+			Probably Griboyedov (this surname can be translated as mushroom eater) 
+			is the best surname applicable to this character.
+			And no, not because he writes great, but because he's a loves mushrooms.
+			It's not clear why, but Truffle loves it.
+			'''
+
+		Buttons: {
+			QuestButton: Quest
+			Button2: Joke
+		}
+
+		QuestFrases: {
+			ChatFrase: I've waited for 4- no 5000 years for this.
+			MenuFrase: I knew you'd be the one to give me back my faith in life.
+			ChatFrase2: In return for what you gave me, I'll give you this bong.
+			ChatFrase3: It has been passed down from generation to generation.
+		}
+
+		Dialogue: {
+			dialogd:
+				'''
+				WARNING!
+				IF YOU SEE THIS TEXT, CLOSE THE GAME IMMEDIATELY
+				AND REBOOT YOUR COMPUTER
+				'''
+			dialog0: Did you know that Truffle has children?
+			dialog1: Listen to the joke...
+			dialog2:
+				'''
+				It is said that there is a lost recipe for meth.
+				I'd like to try it.
+				'''
+			dialog3: Hello, man, do you want shrooms?
+			dialog4: Fuck the sneakers are bent.(An untranslatable joke)
+			dialog5:
+				'''
+				Physics is the best subject in the world!
+				-Van
+				'''
+			dialog6: Sasha R. is a man of the B nation.
+			dialog7:
+				'''
+				Do you know a traveling merchant?
+				Sometimes he has a picture called The Bereaved in his assortment
+				So, this is my favorite character.
+				'''
+			dialog8:
+				'''
+				Allowing neighboring worlds to exist simultaneously in the same location.
+				That is my Stand ability.
+				-Sus M. & DeepLight
+				'''
+		}
+
+		Anekdots: {
+			Anekdot0:
+				'''
+				Teacher: I killed a person. Tom Green, convert this sentence into Future Tense, please.
+				Student Tom Green: You will go to jail.
+				'''
+			Anekdot1:
+				'''
+				What does my dad have in common with Nemo?
+				They both can’t be found.
+				'''
+			Anekdot2:
+				'''
+				When does a joke become a dad joke?
+				When it leaves and never comes back.
+				'''
+			Anekdot3:
+				'''
+				Patient: “Where exactly are you taking me, doctor?”
+				Doctor: “To the morgue.”
+				Patient: “What? But I’m not dead yet!”
+				Doctor: “And we’re not there yet.”
+				'''
+			Anekdot4:
+				'''
+				You don’t need a parachute to go skydiving.
+				You need a parachute to go skydiving twice.
+				'''
+			Anekdot5:
+				'''
+				Son: How do stars die?
+				Dad: An overdose, usually.
+				'''
+			Anekdot6:
+				'''
+				Two hunters are in the woods when one of them collapses.
+				His hunting buddy immediately calls 911. “My friend isn’t breathing,”
+				He shouts into the phone. “What should I do?”
+				“Relax,” the operator tells him. “I can help. First, let’s make sure he’s dead.”
+				There’s silence and then a gunshot.
+				The guy gets back on the phone and says, “OK, now what?”
+				'''
+			Anekdot7:
+				'''
+				My wife and I have made a difficult choice and have decided we do not want children.
+				If anybody does, please just send me your contact details,
+				And we can drop them off tomorrow.
+				'''
+			Anekdot8:
+				'''
+				Doctor: “I have good and bad news.”
+				Patient: “Give me the good news first.”
+				Doctor: “Your test results are back, and you have only two days to live.”
+				Patient: “That’s the good news? What’s the bad news?”
+				Doctor: “I’ve been trying to reach you for two days.”
+				'''
+			Anekdot9:
+				'''
+				Son: Dad, if I told you I was gay, would you still love me?
+				Dad: Don’t be silly son, you were an accident. I never loved you in the first place.
+				'''
+			Anekdot10:
+				'''
+				Wife: I’m pregnant.
+				Husband: Hi pregnant, I’m dad.
+				Wife: No, you’re not.
+				'''
+			Anekdot11:
+				'''
+				Every time my grandmother and I were at a wedding she’d say:
+				“you’re next”. So I started saying the same thing to her at funerals.
+				'''
+			Anekdot12: Jokes about ISIS are all about the execution.
+			Anekdot13: "If you think I would joke about Alzheimer’s, forget it. "
+		}
+	}
+
+	StarCount: {
+		DisplayName: The Astronomer
+		Census.SpawnCondition: Zodiac's star should be in inventory
+
+		Names: {
+			Name0: Eo
+			Name1: Galileo Galilei
+			Name2: Arc W.
+			Name3: Morgan Yu.
+			Name4: Dr. Kel
+			Name5: Purely Reckless
+			Name6: Verson
+			Name7: Aether
+			Name8: Anton Sokolov
+			Name9: Orion
+			Name10: Helios
+			Name11: Galaktion
+			Name12: Ouroboros
+			Name13: Icarus
+			Name14: Thanatos
+			Name15: Jörmungandr
+			Name16: Ymir
+			Name17: Kayleon
+			Name18: Sól
+			Name19: Baldr
+		}
+
+		TownNPCMood: {
+			Content: Leave me alone.
+			NoHome: You'd better find me a house.
+			FarFromHome: You know it's better to get me home faster.
+			LoveSpace: I love space as well as personal.
+			DislikeCrowded: It's too noisy.
+			HateCrowded: I don't ask for much, just my own house.
+			LoveBiome: I love {BiomeName}, take me there.
+			LikeBiome: I like {BiomeName}, it's quiet and peaceful there.
+			DislikeBiome: I don't like the deadly danger of crimson and distortion.
+			HateBiome: I hate caves only for one reason, there are no stars.
+			LoveNPC: You know, a wizard is the best one I see here.
+			LikeNPC: I like {NPCName}.
+			DislikeNPC: I don't like this girl in pink clothes, she's too loud.
+			HateNPC: I hate technologies, and even more Cyborg.
+			LikeNPC_Princess: In my youth, the states gave for people like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+
+		Bestiary:
+			'''
+			A weird astronomer,
+			Loves the stars, but hates the constellations
+			'''
+
+		Buttons: {
+			QuestButton: Quest
+			Button2: Space
+		}
+
+		Dialogue: {
+			dialogd: Zodiac, how stupid you are.
+			dialog0: I'm sure I'm older than everyone here.
+			dialog1: Fuck off
+			dialog2: Someday I'll find a way to revive Him.
+			dialog3: Are you here on business?
+			dialog4: ... stars...
+			dialog5: Tell me, don't you use the legacy of the planets?
+			dialog6: Do you think it's difficult to revive a metaphysical being?
+			dialog7:
+				'''
+				Maybe you'll be the key.
+				However, these are just guesses
+				'''
+			dialog8: I have a thought...
+		}
+
+		Space: {
+			Space0:
+				'''
+				In the beginning, there was the Zodiac.
+				He created everything.
+				'''
+			Space1:
+				'''
+				The first thing that the Zodiac created,
+				There were his signs.
+				After that, the Universe.
+				'''
+			Space2:
+				'''
+				Constellations were created in the universe,
+				There are stars in them,
+				and planets around the stars.
+				'''
+			Space3:
+				'''
+				In most ancient myths
+				Planets and stars are a family.
+				'''
+			Space4:
+				'''
+				For example, in our system:
+				The sun is the second in age,
+				He is portrayed as a defender and a fair judge.
+				Mercury is the youngest in age,
+				An inept craftsman.
+				Venus is the older sister,
+				Her name is also the Goddess of Love.
+				'''
+			Space5:
+				'''
+				Earth is the younger sister,
+				From the myths, her character is gentle and kind.
+				Mars is the fifth in age,
+				He is often portrayed as brash and intemperate.
+				Jupiter is the oldest among the children of the Zodiac.
+				'''
+			Space6:
+				'''
+				Saturn is the third in age
+				and the most talanted of the children.
+				Uranus is the eighth highest,
+				Little is said about him in the myths.
+				Neptune is the youngest,
+				In the myths, he was a baby,
+				So he had no items or character.
+				'''
+		}
+	}
+
+	TruZombie: {
+		DisplayName: The bribe taker
+		Bestiary:
+			'''
+			Don't be fooled, his goofy appearance is just a bait.
+			He's dangerous.
+			Typical official.
+			'''
+	}
+}
+
+Tiles: {
+	SmokingFlower.MapEntry: Smoking flower
+	WorkingTable.MapEntry: Alembic
+}

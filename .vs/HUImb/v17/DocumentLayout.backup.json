@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\items\\weapons\\magic\\riskofthunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:items\\weapons\\magic\\riskofthunder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\items\\weapons\\magic\\sunscontempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:items\\weapons\\magic\\sunscontempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\localization\\ru-ru_mods.huimb.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:localization\\ru-ru_mods.huimb.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\localization\\en-us_mods.huimb.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:localization\\en-us_mods.huimb.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\globalmodsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:globalmodsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\dropsglobalnpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:dropsglobalnpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|c:\\users\\deeplight\\documents\\my games\\terraria\\tmodloader\\modsources\\huimb\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D1C0988-20F2-4296-B066-4AE74C46CA43}|HUImb.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RiskOfThunder.cs",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Items\\weapons\\Magic\\RiskOfThunder.cs",
+              "RelativeDocumentMoniker": "Items\\weapons\\Magic\\RiskOfThunder.cs",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Items\\weapons\\Magic\\RiskOfThunder.cs",
+              "RelativeToolTip": "Items\\weapons\\Magic\\RiskOfThunder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:52:25.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SunsContempt.cs",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Items\\weapons\\Magic\\SunsContempt.cs",
+              "RelativeDocumentMoniker": "Items\\weapons\\Magic\\SunsContempt.cs",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Items\\weapons\\Magic\\SunsContempt.cs",
+              "RelativeToolTip": "Items\\weapons\\Magic\\SunsContempt.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:51:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ru-RU_Mods.HUImb.hjson",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Localization\\ru-RU_Mods.HUImb.hjson",
+              "RelativeDocumentMoniker": "Localization\\ru-RU_Mods.HUImb.hjson",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Localization\\ru-RU_Mods.HUImb.hjson",
+              "RelativeToolTip": "Localization\\ru-RU_Mods.HUImb.hjson",
+              "ViewState": "AgIAAE8CAAAAAAAAAAAAAGgCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T14:47:14.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "en-US_Mods.HUImb.hjson",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Localization\\en-US_Mods.HUImb.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.HUImb.hjson",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\Localization\\en-US_Mods.HUImb.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.HUImb.hjson",
+              "ViewState": "AgIAADsCAAAAAAAAAAAAAFsCAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T14:47:13.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalModSystem.cs",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\GlobalModSystem.cs",
+              "RelativeDocumentMoniker": "GlobalModSystem.cs",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\GlobalModSystem.cs",
+              "RelativeToolTip": "GlobalModSystem.cs",
+              "ViewState": "AgIAAEwBAAAAAAAAAAAAAG0BAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:41:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DropsGlobalNPC.cs",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\DropsGlobalNPC.cs",
+              "RelativeDocumentMoniker": "DropsGlobalNPC.cs",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\DropsGlobalNPC.cs",
+              "RelativeToolTip": "DropsGlobalNPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:48:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "build.txt",
+              "DocumentMoniker": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\build.txt",
+              "RelativeDocumentMoniker": "build.txt",
+              "ToolTip": "C:\\Users\\DeepLight\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HUImb\\build.txt",
+              "RelativeToolTip": "build.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-03T10:54:00.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

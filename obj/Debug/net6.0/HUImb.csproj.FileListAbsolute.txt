@@ -1,0 +1,5 @@
+C:\Users\nonn5\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\HUImb\obj\Debug\net6.0\HUImb.csproj.AssemblyReference.cache
+C:\Users\nonn5\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\HUImb\obj\Debug\net6.0\HUImb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonn5\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\HUImb\obj\Debug\net6.0\HUImb.AssemblyInfoInputs.cache
+C:\Users\nonn5\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\HUImb\obj\Debug\net6.0\HUImb.AssemblyInfo.cs
+C:\Users\nonn5\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\HUImb\obj\Debug\net6.0\HUImb.csproj.CoreCompileInputs.cache

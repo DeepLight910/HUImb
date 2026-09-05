@@ -1,0 +1,3 @@
+displayName = HUI: Helpful Utility Items
+author = DeepLight,  kяrv & Purely reckless
+version = 404.0

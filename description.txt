@@ -1,0 +1,26 @@
+[h1]Description[/h1]
+
+HUI: Helpful Utility Items is a mod that adds small changes to the game to improve the quality of life.
+The mod requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831360228]Project tRU[/url] (for Russians).
+Currently there are 37 items, 6 effects, 3 NPCs and 2 tiles in the mod.
+
+[h2]Update[/h2]
+
+Tf is dev alive?
+Yeah, I'm here again!
+Added some items and resprited the Sun Sword
+
+[hr][/hr]
+
+[h1]Описание[/h1]
+
+HUI: Helpful Utility Items - это мод, который добавляет в игру небольшие изменения для улучшения качества жизни.
+Мод требует [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072]Calamity[/url] и [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2831360228]Project tRU[/url] (для русских).
+На данный момент в моде 37 предметов, 6 эффектов, 3 NPC и 2 тайла.
+
+[h2]Обновление[/h2]
+
+Всем привет я жив
+Было добавлено пару предметов,
+Переработан спрайт меча солнца
+И еще пару вещей
